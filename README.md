@@ -38,5 +38,5 @@ For detailed paper walkthrough on DeepSeek-R1: Incentivizing Reasoning Capabilit
 
 ## Usage
 
-Run the Jupyter notebook `deepseek-bedrock.ipynb` for detailed implementation.
+Run the Jupyter notebook [`deepseek-bedrock.ipynb`](deepseek-bedrock.ipynb) for detailed implementation.
 
