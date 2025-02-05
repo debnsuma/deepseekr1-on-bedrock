@@ -1,2 +1,4 @@
 .venv/
 .idea/
+.DS_Store
+LIVE-deepseek-bedrock.ipynb
